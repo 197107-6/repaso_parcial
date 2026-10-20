@@ -24,14 +24,18 @@ def menu():
             break
         else:
             print("Opción inválida. Por favor, ingrese un número entre 1 y 4.")
-            
+
 def ejecutar_ejercicio1():
     kilometros = ej1.leerKilometros()
     importe = ej1.calcularImporte(kilometros)
     ej1.mostrarImporte(importe)
 
 def ejecutar_ejercicio2():
-    print("Ejercicio 2 pendiente de implementar.")
+    ventas = ej2.leerVentas()
+    comision = ej2.calcularComision(ventas)
+    bono = ej2.calcularBono(ventas)
+    total = comision + bono
+    ej2.mostrarPago(comision, bono, total)
 
 def ejecutar_ejercicio3():
     print("Ejercicio 3 pendiente de implementar.")

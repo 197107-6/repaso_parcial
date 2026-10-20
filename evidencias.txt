@@ -64,3 +64,70 @@ Ingrese los kilómetros recorridos: 30
 +--------------+-----------+
 | Total        | $274.50   |
 +--------------+-----------+
+
+=== Ejercicio 2 comision ===
+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 2
+Ingrese las ventas del mes: 5000
++---------------+-----------+
+| Concepto      | Importe   |
++===============+===========+
+| Comisión      | $250.00   |
++---------------+-----------+
+| Bono          | $0.00     |
++---------------+-----------+
+| Total a pagar | $250.00   |
++---------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 2
+Ingrese las ventas del mes: 10000
++---------------+-----------+
+| Concepto      | Importe   |
++===============+===========+
+| Comisión      | $800.00   |
++---------------+-----------+
+| Bono          | $0.00     |
++---------------+-----------+
+| Total a pagar | $800.00   |
++---------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 2
+Ingrese las ventas del mes: 50000
++---------------+-----------+
+| Concepto      | Importe   |
++===============+===========+
+| Comisión      | $4000.00  |
++---------------+-----------+
+| Bono          | $0.00     |
++---------------+-----------+
+| Total a pagar | $4000.00  |
++---------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 2
+Ingrese las ventas del mes: 50001
++---------------+-----------+
+| Concepto      | Importe   |
++===============+===========+
+| Comisión      | $4000.08  |
++---------------+-----------+
+| Bono          | $1000.00  |
++---------------+-----------+
+| Total a pagar | $5000.08  |
++---------------+-----------+

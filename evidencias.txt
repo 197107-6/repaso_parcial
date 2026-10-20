@@ -1,0 +1,66 @@
+=== Ejercicio 1. Viaje en taxi ===
+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 1
+Ingrese los kilómetros recorridos: 5
++--------------+-----------+
+| Concepto     | Importe   |
++==============+===========+
+| Banderazo    | $35.00    |
++--------------+-----------+
+| Costo por km | $9.00     |
++--------------+-----------+
+| Total        | $80.00    |
++--------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 1
+Ingrese los kilómetros recorridos: 20
++--------------+-----------+
+| Concepto     | Importe   |
++==============+===========+
+| Banderazo    | $35.00    |
++--------------+-----------+
+| Costo por km | $9.00     |
++--------------+-----------+
+| Total        | $215.00   |
++--------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 1
+Ingrese los kilómetros recorridos: 21
++--------------+-----------+
+| Concepto     | Importe   |
++==============+===========+
+| Banderazo    | $35.00    |
++--------------+-----------+
+| Costo por km | $9.00     |
++--------------+-----------+
+| Total        | $201.60   |
++--------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 1
+Ingrese los kilómetros recorridos: 30
++--------------+-----------+
+| Concepto     | Importe   |
++==============+===========+
+| Banderazo    | $35.00    |
++--------------+-----------+
+| Costo por km | $9.00     |
++--------------+-----------+
+| Total        | $274.50   |
++--------------+-----------+

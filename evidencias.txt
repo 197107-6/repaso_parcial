@@ -131,3 +131,74 @@ Ingrese las ventas del mes: 50001
 +---------------+-----------+
 | Total a pagar | $5000.08  |
 +---------------+-----------+
+
+=== Ejercicio 3. Biblioteca ===
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 3
+Ingrese los días de retraso: 0
++-----------------+-----------+
+| Concepto        | Importe   |
++=================+===========+
+| Días de retraso | 0         |
++-----------------+-----------+
+| Multa           | $0.00     |
++-----------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 3
+Ingrese los días de retraso: 10
++-----------------+-----------+
+| Concepto        | Importe   |
++=================+===========+
+| Días de retraso | 10        |
++-----------------+-----------+
+| Multa           | $50.00    |
++-----------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 3 
+Ingrese los días de retraso: 11
++-----------------+-----------+
+| Concepto        | Importe   |
++=================+===========+
+| Días de retraso | 11        |
++-----------------+-----------+
+| Multa           | $60.00    |
++-----------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 3
+Ingrese los días de retraso: 25
++-----------------+-----------+
+| Concepto        | Importe   |
++=================+===========+
+| Días de retraso | 25        |
++-----------------+-----------+
+| Multa           | $200.00   |
++-----------------+-----------+
+Seleccione un ejercicio:
+1. Ejercicio 1: Viaje en taxi
+2. Ejercicio 2: Comisión de ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 3
+Ingrese los días de retraso: 40
++-----------------+-----------+
+| Concepto        | Importe   |
++=================+===========+
+| Días de retraso | 40        |
++-----------------+-----------+
+| Multa           | $200.00   |

@@ -38,4 +38,6 @@ def ejecutar_ejercicio2():
     ej2.mostrarPago(comision, bono, total)
 
 def ejecutar_ejercicio3():
-    print("Ejercicio 3 pendiente de implementar.")
+    dias = ej3.leerDias()
+    multa = ej3.calcularMulta(dias)
+    ej3.mostrarMulta(dias, multa)
